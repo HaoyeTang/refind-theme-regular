@@ -2,10 +2,6 @@
 
 A simplistic clean and minimal theme for rEFInd
 
-![Screenshot 01](http://i.imgur.com/wQQ5OiQ.png)
-**press F10 to take screenshot
-
-
 ### Installation:
 
 1. Clone git repository to your $HOME directory.
