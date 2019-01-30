@@ -21,9 +21,9 @@ A simplistic clean and minimal theme for rEFInd
    sudo rm -rf /boot/efi/EFI/refind/refind-theme-regular/{.git}
    ```
 
-4. To enable the theme add `include refind-theme-regular/theme.conf` at the end of `refind.conf`.
+4. To enable the theme add `include refind-theme-revised/theme.conf` at the end of `refind.conf`.
    ```
-   sudo nano /boot/efi/EFI/refind/refind.conf
+   sudo vim /boot/efi/EFI/refind/refind.conf
    ```
 ## Credits
 [Evan Purkhiser](https://github.com/EvanPurkhiser)
