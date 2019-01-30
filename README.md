@@ -27,3 +27,7 @@ A simplistic clean and minimal theme for rEFInd
    ```
    sudo nano /boot/efi/EFI/refind/refind.conf
    ```
+## Credits
+[Evan Purkhiser](https://github.com/EvanPurkhiser)
+
+[Munlik](https://github.com/munlik)
